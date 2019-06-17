@@ -1,2 +1,2 @@
 # GreenHouseIno
-Firmware para controlar un invernadero
+Firmware para controlar un invernadero para hongos.
